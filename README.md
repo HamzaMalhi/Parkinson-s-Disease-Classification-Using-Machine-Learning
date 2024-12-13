@@ -53,4 +53,4 @@ This project highlights the potential of machine learning in the early diagnosis
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/parkinsons-classification.git
+   git clone https://github.com/HamzaMalhi/Parkinson-s-Disease-Classification-Using-Machine-Learning
